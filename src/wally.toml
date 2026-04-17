@@ -9,6 +9,6 @@ registry = "https://github.com/UpliftGames/wally-index"
 repository = "https://github.com/Nowoshire/LazyValueBucket"
 
 realm = "shared"
-include = ["*", "wally.toml"]
+include = ["*"]
 
 [dependencies]
