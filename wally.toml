@@ -2,7 +2,7 @@
 name = "nowoshire/lazyvaluebucket"
 description = "An implementation of lazily evaluated token buckets in Luau."
 
-version = "0.1.3"
+version = "0.1.4"
 license = "MIT"
 
 registry = "https://github.com/UpliftGames/wally-index"
