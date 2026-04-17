@@ -1,7 +1,7 @@
 [package]
 name = "nowoshire/lazyvaluebucket"
 description = "An implementation of lazily evaluated token buckets in Luau."
-version = "1.0.0"
+version = "1.0.1"
 license = "MIT"
 authors = ["Nowoshire"]
 
