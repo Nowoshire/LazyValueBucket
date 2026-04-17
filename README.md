@@ -8,7 +8,7 @@ Useful for rate-limits and other depletion/regeneration use cases.
 
 ### Pre-built RBXM
 
-Download the `.rbxm` file from the Latest Release, and place it in your desired location.
+Download the `.rbxm` file from the [Latest Release](https://github.com/Nowoshire/LazyValueBucket/releases/latest), and place it in your desired location.
 
 ### Wally
 
