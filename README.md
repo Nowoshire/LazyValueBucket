@@ -13,13 +13,13 @@ Download the `.rbxm` file from the [Latest Release](https://github.com/Nowoshire
 ### Wally
 
 ```toml
-TypeUtils = "nowoshire/lazyvaluebucket@^0.0"
+LazyValueBucket = "nowoshire/lazyvaluebucket@^0.0"
 ```
 
 ### Rojo (Build from Source)
 
 ```bash
 git clone https://github.com/Nowoshire/LazyValueBucket.git
-cd LuauTypeUtils
-rojo build --output "../TypeUtils.rbxm"
+cd LazyValueBucket
+rojo build --output "../LazyValueBucket.rbxm"
 ```
