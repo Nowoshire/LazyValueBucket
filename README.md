@@ -12,4 +12,6 @@ Add the following to your `wally.toml` dependencies:
 LazyValueBucket = "nowoshire/lazyvaluebucket@^0"
 ```
 
+Run `wally install`.
+
 Then use Rojo or your preferred sync tool to sync it into Roblox Studio.
