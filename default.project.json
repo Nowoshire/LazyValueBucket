@@ -1,0 +1,14 @@
+{
+	"name": "lazyvaluebucket",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"Packages": {
+				"$path": "Packages"
+			}
+		},
+		"ValueBucket": {
+			"$path": "src"
+		}
+	}
+}

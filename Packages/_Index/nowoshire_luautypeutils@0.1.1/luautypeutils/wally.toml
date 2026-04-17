@@ -1,0 +1,15 @@
+[package]
+name = "nowoshire/luautypeutils"
+description = "A collection of various type utilities for the New Luau Type Solver."
+
+version = "0.1.1"
+license = "MIT"
+
+registry = "https://github.com/UpliftGames/wally-index"
+repository = "https://github.com/Nowoshire/LuauTypeUtils"
+realm = "shared"
+
+exclude = ["*"]
+include = ["src", "src/*", "README.md", "wally.toml", "default.project.json"]
+
+[dependencies]

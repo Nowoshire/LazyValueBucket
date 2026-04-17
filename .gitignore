@@ -1,0 +1,8 @@
+# Project build file
+/ValueBucket.rbxm
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
