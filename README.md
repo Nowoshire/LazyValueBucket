@@ -6,20 +6,10 @@ Useful for rate-limits and other depletion/regeneration use cases.
 
 ## Installation
 
-### GitHub
-
-Download the `.rbxm` file from the [Latest Release](https://github.com/Nowoshire/LazyValueBucket/releases/latest) and place it in your desired location.
-
-### Wally
+Add the following to your `wally.toml` dependencies:
 
 ```toml
 LazyValueBucket = "nowoshire/lazyvaluebucket@^0"
 ```
 
-### Rojo (Build from Source)
-
-```bash
-git clone https://github.com/Nowoshire/LazyValueBucket.git
-cd LazyValueBucket
-rojo build --output "../LazyValueBucket.rbxm"
-```
+Then use Rojo or your preferred sync tool to sync it into Roblox Studio.
