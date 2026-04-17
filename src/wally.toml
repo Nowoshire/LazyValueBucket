@@ -1,17 +1,14 @@
 [package]
 name = "nowoshire/lazyvaluebucket"
 description = "An implementation of lazily evaluated token buckets in Luau."
-
-version = "0.1.4"
+version = "1.0.0"
 license = "MIT"
+authors = ["Nowoshire"]
 
 registry = "https://github.com/UpliftGames/wally-index"
 repository = "https://github.com/Nowoshire/LazyValueBucket"
-realm = "shared"
 
-exclude = ["*"]
-include = ["src", "src/*", "README.md", "wally.toml"]
+realm = "shared"
+include = ["*", "wally.toml"]
 
 [dependencies]
-Signal = "nowoshire/namedsignal@^2.0.0"
-TypeUtils = "nowoshire/luautypeutils@^0"
