@@ -13,7 +13,7 @@ Download the `.rbxm` file from the [Latest Release](https://github.com/Nowoshire
 ### Wally
 
 ```toml
-LazyValueBucket = "nowoshire/lazyvaluebucket@^0.0"
+LazyValueBucket = "nowoshire/lazyvaluebucket@^0"
 ```
 
 ### Rojo (Build from Source)
