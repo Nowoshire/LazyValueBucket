@@ -1,7 +1,7 @@
 --[[
 	-- ValueBucket --
 	
-	v0.1.1
+	v0.1.2
 
 	An implementation of lazily evaluated token buckets in Luau.
 	Useful for rate-limits and other depletion/regeneration use cases.
