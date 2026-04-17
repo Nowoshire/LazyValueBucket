@@ -10,7 +10,7 @@ repository = "https://github.com/Nowoshire/LazyValueBucket"
 realm = "shared"
 
 exclude = ["*"]
-include = ["src", "src/*", "default.project.json", "README.md", "wally.toml"]
+include = ["src", "src/*", "README.md", "wally.toml"]
 
 [dependencies]
 Signal = "nowoshire/namedsignal@^2.0.0"
