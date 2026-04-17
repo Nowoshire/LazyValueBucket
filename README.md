@@ -15,7 +15,7 @@ Download the `.rbxm` file from the [Latest Release](https://github.com/Nowoshire
 Add the following to your `wally.toml` dependencies:
 
 ```toml
-ValueBucket = "nowoshire/lazyvaluebucket@1.0.0"
+ValueBucket = "nowoshire/lazyvaluebucket@^1.0.0"
 ```
 
 ### Rojo (Build from Source)
