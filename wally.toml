@@ -1,0 +1,19 @@
+[package]
+name = "nowoshire/lazyvaluebucket"
+description = "An implementation of lazily evaluated token buckets in Luau."
+version = "1.0.1"
+license = "MIT"
+authors = ["Nowoshire"]
+
+registry = "https://github.com/UpliftGames/wally-index"
+repository = "https://github.com/Nowoshire/LazyValueBucket"
+
+realm = "shared"
+
+# Include acts like an exclusion-exception list, it doesn't automatically exclude non-included files
+# Use * to exclude everything, so include has the intuitive allowlist behavior.
+exclude = ["*"]
+
+# wally seems to also recurse with src/* (?)
+# but I'm using src/** for clarity as it also seemingly works.
+include = ["src", "src/**", "LICENSE", "README.md", "wally.toml"]
